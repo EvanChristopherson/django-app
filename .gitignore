@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# IDE
+.vscode
+
+# Virtual environment
+venv/
+
+src/.db.sqlite3
+src/mysite/__pycache__/
